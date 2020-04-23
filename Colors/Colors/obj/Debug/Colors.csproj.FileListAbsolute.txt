@@ -1,0 +1,9 @@
+C:\Users\Екатерина Захаренко\source\repos\Colors\Colors\bin\Debug\Colors.exe.config
+C:\Users\Екатерина Захаренко\source\repos\Colors\Colors\bin\Debug\Colors.exe
+C:\Users\Екатерина Захаренко\source\repos\Colors\Colors\bin\Debug\Colors.pdb
+C:\Users\Екатерина Захаренко\source\repos\Colors\Colors\obj\Debug\Colors.csprojAssemblyReference.cache
+C:\Users\Екатерина Захаренко\source\repos\Colors\Colors\obj\Debug\Colors.Form1.resources
+C:\Users\Екатерина Захаренко\source\repos\Colors\Colors\obj\Debug\Colors.Properties.Resources.resources
+C:\Users\Екатерина Захаренко\source\repos\Colors\Colors\obj\Debug\Colors.csproj.GenerateResource.cache
+C:\Users\Екатерина Захаренко\source\repos\Colors\Colors\obj\Debug\Colors.exe
+C:\Users\Екатерина Захаренко\source\repos\Colors\Colors\obj\Debug\Colors.pdb
